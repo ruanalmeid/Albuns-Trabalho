@@ -1,3 +1,3 @@
 # Albuns-Trabalho
 
-![](Albuns.PNG)
+![Foto](assets/Albuns.PNG)
